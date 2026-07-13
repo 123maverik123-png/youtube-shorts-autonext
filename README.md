@@ -3,8 +3,11 @@
 Automatically skip to the next YouTube Shorts video when the current one ends.
 
 [![Install](https://img.shields.io/badge/Install-Tampermonkey-green.svg)](https://raw.githubusercontent.com/123maverik123-png/youtube-shorts-autonext/main/youtube-shorts-autonext.user.js)
+[![Firefox](https://img.shields.io/badge/Firefox-✅_Working-orange)](https://www.mozilla.org/firefox/)
+[![Chrome](https://img.shields.io/badge/Chrome-✅_Working-blue)](https://www.google.com/chrome/)
+[![Edge](https://img.shields.io/badge/Edge-✅_Working-0078D7)](https://www.microsoft.com/edge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)](https://github.com/123maverik123-png/youtube-shorts-autonext/releases)
 ## 📖 Description
 
 This userscript automatically advances to the next YouTube Shorts video when the current video finishes playing. No more manual clicking!
