@@ -22,7 +22,7 @@ This userscript automatically advances to the next YouTube Shorts video when the
 - 🚀 **Lightweight** - Minimal performance impact
 
 ## 🔧 Installation
-https://github.com/123maverik123-png/youtube-shorts-autonext/blob/main/README.md
+
 ### Prerequisites
 - Install [Tampermonkey](https://www.tampermonkey.net/) (Firefox/Chrome/Edge)
 
