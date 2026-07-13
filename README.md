@@ -2,7 +2,7 @@
 
 Automatically skip to the next YouTube Shorts video when the current one ends.
 
-[![Install](https://img.shields.io/badge/Install-Tampermonkey-green.svg)](https://raw.githubusercontent.com/yourusername/youtube-shorts-autonext/main/youtube-shorts-autonext.user.js)
+[![Install](https://img.shields.io/badge/Install-Tampermonkey-green.svg)](https://raw.githubusercontent.com/123maverik123-png/youtube-shorts-autonext/main/youtube-shorts-autonext.user.js)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📖 Description
