@@ -22,7 +22,7 @@ This userscript automatically advances to the next YouTube Shorts video when the
 
 ### Install Script
 1. Click the install button below:
-   [![Install](https://img.shields.io/badge/Install-Tampermonkey-green.svg)](https://raw.githubusercontent.com/yourusername/youtube-shorts-autonext/main/youtube-shorts-autonext.user.js)
+   [![Install](https://img.shields.io/badge/Install-Tampermonkey-green.svg)](https://raw.githubusercontent.com/123maverik123-png/youtube-shorts-autonext/main/youtube-shorts-autonext.user.js)
 
 2. Tampermonkey will open - click **Install**
 
