@@ -1,7 +1,7 @@
 # YouTube Shorts Auto Next 🚀
 
 Automatically skip to the next YouTube Shorts video when the current one ends.
-
+[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)](https://github.com/123maverik123-png/youtube-shorts-autonext/releases/tag/v1.0.0)
 
 ## 📖 Description
 
