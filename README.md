@@ -27,8 +27,10 @@ https://github.com/123maverik123-png/youtube-shorts-autonext/blob/main/README.md
 - Install [Tampermonkey](https://www.tampermonkey.net/) (Firefox/Chrome/Edge)
 
 ### Install Script
-1. Click the install button below:
-   [![Install](https://img.shields.io/badge/Install-Tampermonkey-green.svg)](https://raw.githubusercontent.com/123maverik123-png/youtube-shorts-autonext/main/youtube-shorts-autonext.user.js)
+1. Click this button to install the script:
+<a href="https://raw.githubusercontent.com/123maverik123-png/youtube-shorts-autonext/main/youtube-shorts-autonext.user.js"><img src="https://img.shields.io/badge/📦_Install_Script-Tampermonkey-00C853?style=for-the-badge&logo=tampermonkey&logoColor=white" alt="Install Script"></a>
+**Or copy and paste this URL into your browser:**
+https://raw.githubusercontent.com/123maverik123-png/youtube-shorts-autonext/main/youtube-shorts-autonext.user.js
 
 2. Tampermonkey will open - click **Install**
 
