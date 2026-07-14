@@ -1,9 +1,6 @@
 # 🎤 YouTube Shorts Voice Control
 
-[![Install](https://img.shields.io/badge/Install-Tampermonkey-green.svg)](https://raw.githubusercontent.com/123maverik123-png/youtube-shorts-autonext/main/youtube-shorts-autonext.user.js)
 [![Chrome](https://img.shields.io/badge/Chrome-✅_Working-blue)](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-[![Edge](https://img.shields.io/badge/Edge-✅_Working-0078D7)](https://www.microsoft.com/edge)
-[![Firefox](https://img.shields.io/badge/Firefox-❌_Not_Supported-orange)](https://www.mozilla.org/firefox/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/Version-3.0.0-brightgreen)](https://github.com/123maverik123-png/youtube-shorts-autonext/releases)
 
